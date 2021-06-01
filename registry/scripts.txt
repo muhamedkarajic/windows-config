@@ -1,2 +1,0 @@
-Remove "Sign in as organization popup"
-HKLM\SOFTWARE\Policies\Microsoft\Windows\WorkplaceJoin, “BlockAADWorkplaceJoin”=dword:00000001
