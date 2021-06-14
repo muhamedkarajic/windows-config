@@ -2,7 +2,6 @@
     "workbench.activityBar.visible": false,
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
     "editor.renderWhitespace": "none",
     "workbench.startupEditor": "none",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
@@ -12,5 +11,23 @@
             "icon": "terminal-powershell",
             "args": ["-nologo"]
         }
-    }
+    },
+    "redhat.telemetry.enabled": false,
+    "explorer.confirmDelete": false,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "explorer.confirmDragAndDrop": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.tabs.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.enablePreview": false
 }
