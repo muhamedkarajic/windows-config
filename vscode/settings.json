@@ -48,5 +48,13 @@
         }
       ]
     }
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "editor.selectionHighlightBackground": "#0000",
+    "editor.selectionHighlightBorder": "#0000",
+    "editor.wordHighlightStrongBackground": "#0000",
+    "editor.wordHighlightStrongBorder": "#0000",
+    "editor.wordHighlightBackground": "#0000",
+    "editor.wordHighlightBorder": "#0000"
+  }
 }
