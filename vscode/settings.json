@@ -56,5 +56,6 @@
     "editor.wordHighlightStrongBorder": "#0000",
     "editor.wordHighlightBackground": "#0000",
     "editor.wordHighlightBorder": "#0000"
-  }
+  },
+  "editor.renderIndentGuides": false
 }
