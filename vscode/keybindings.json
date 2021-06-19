@@ -66,5 +66,10 @@
   {
     "key": "ctrl+0",
     "command": "-workbench.action.focusSideBar"
+  },
+  {
+    "key": "ctrl+shift+l",
+    "command": "settings.cycle.lineNumbers",
+    "when": "editorFocus"
   }
 ]
