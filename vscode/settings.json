@@ -39,23 +39,51 @@
         {
           "editor.lineNumbers": "off",
           "editor.folding": false,
-          "editor.glyphMargin": false
+          "editor.glyphMargin": false,
+          "editor.renderIndentGuides": false
         },
         {
           "editor.lineNumbers": "on",
           "editor.folding": true,
-          "editor.glyphMargin": true
+          "editor.glyphMargin": true,
+          "editor.renderIndentGuides": true
         }
       ]
     }
   ],
+  "editor.lineNumbers": "off",
+  "editor.folding": false,
+  "editor.glyphMargin": false,
   "workbench.colorCustomizations": {
     "editor.selectionHighlightBackground": "#0000",
     "editor.selectionHighlightBorder": "#0000",
     "editor.wordHighlightStrongBackground": "#0000",
     "editor.wordHighlightStrongBorder": "#0000",
     "editor.wordHighlightBackground": "#0000",
-    "editor.wordHighlightBorder": "#0000"
+    "editor.wordHighlightBorder": "#0000",
+    "editorOverviewRuler.border": "#0000",
+    "editorOverviewRuler.currentContentForeground": "#0000",
+    "editorOverviewRuler.addedForeground": "#0000",
+    "editorOverviewRuler.modifiedForeground": "#0000",
+    "editorOverviewRuler.deletedForeground": "#0000",
+    "editorGutter.addedBackground": "#0000",
+    "peekViewEditorGutter.background": "#0000",
+    "editorGutter.modifiedBackground": "#0000",
+    "editorGutter.deletedBackground": "#0000",
+    "editor[Warning|Error].forground": "#000000",
+    "editorOverviewRuler.findMatchForeground": "#0000",
+    "editorOverviewRuler.rangeHighlightForeground": "#0000",
+    "editorOverviewRuler.selectionHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+    "editorOverviewRuler.warningForeground": "#0000",
+    "editorOverviewRuler.errorForeground": "#ff0000",
+    "editorOverviewRuler.Site": "#ff0000",
+    "editorOverviewRuler.infoForeground": "#0000",
+    "editorOverviewRuler.bracketMatchForeground": "#0000",
   },
-  "editor.renderIndentGuides": false
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.renderIndentGuides": false,
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.scrollbar.horizontalScrollbarSize": 10
 }
