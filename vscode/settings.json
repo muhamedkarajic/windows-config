@@ -80,10 +80,12 @@
     "editorOverviewRuler.errorForeground": "#ff0000",
     "editorOverviewRuler.Site": "#ff0000",
     "editorOverviewRuler.infoForeground": "#0000",
-    "editorOverviewRuler.bracketMatchForeground": "#0000",
+    "editorOverviewRuler.bracketMatchForeground": "#0000"
   },
   "editor.hideCursorInOverviewRuler": true,
   "editor.renderIndentGuides": false,
   "editor.scrollbar.verticalScrollbarSize": 10,
-  "editor.scrollbar.horizontalScrollbarSize": 10
+  "editor.scrollbar.horizontalScrollbarSize": 10,
+  "window.restoreFullscreen": true,
+  "window.newWindowDimensions": "maximized"
 }
