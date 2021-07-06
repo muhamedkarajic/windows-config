@@ -51,9 +51,9 @@
       ]
     }
   ],
-  "editor.lineNumbers": "off",
-  "editor.folding": false,
-  "editor.glyphMargin": false,
+  "editor.lineNumbers": "on",
+  "editor.folding": true,
+  "editor.glyphMargin": true,
   "workbench.colorCustomizations": {
     "editor.selectionHighlightBackground": "#0000",
     "editor.selectionHighlightBorder": "#0000",
@@ -78,12 +78,13 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
     "editorOverviewRuler.warningForeground": "#0000",
     "editorOverviewRuler.errorForeground": "#ff0000",
+    "editor.foldBackground": "#0000",
     "editorOverviewRuler.Site": "#ff0000",
     "editorOverviewRuler.infoForeground": "#0000",
     "editorOverviewRuler.bracketMatchForeground": "#0000"
   },
   "editor.hideCursorInOverviewRuler": true,
-  "editor.renderIndentGuides": false,
+  "editor.renderIndentGuides": true,
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
   "window.restoreFullscreen": true,
