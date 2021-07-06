@@ -87,5 +87,13 @@
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
   "window.restoreFullscreen": true,
-  "window.newWindowDimensions": "maximized"
+  "window.newWindowDimensions": "maximized",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.codeLens": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
