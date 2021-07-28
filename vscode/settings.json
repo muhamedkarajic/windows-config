@@ -96,5 +96,7 @@
   "editor.codeLens": false,
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.startupPrompt": "never"
 }
