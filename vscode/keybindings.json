@@ -109,5 +109,19 @@
     "key": "ctrl+alt+down",
     "command": "-editor.action.insertCursorBelow",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+d",
+    "command": "workbench.view.extension.dockerView"
+  },
+  {
+    "key": "ctrl+shift+r",
+    "command": "workbench.view.debug",
+    "when": "viewContainer.workbench.view.debug.enabled"
+  },
+  {
+    "key": "ctrl+shift+d",
+    "command": "-workbench.view.debug",
+    "when": "viewContainer.workbench.view.debug.enabled"
   }
 ]
