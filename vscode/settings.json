@@ -50,9 +50,9 @@
       ]
     }
   ],
-  "editor.lineNumbers": "on",
-  "editor.folding": true,
-  "editor.glyphMargin": true,
+  "editor.lineNumbers": "off",
+  "editor.folding": false,
+  "editor.glyphMargin": false,
   "workbench.colorCustomizations": {
     "editor.selectionHighlightBackground": "#0000",
     "editor.selectionHighlightBorder": "#0000",
@@ -83,7 +83,7 @@
     "editorOverviewRuler.bracketMatchForeground": "#0000"
   },
   "editor.hideCursorInOverviewRuler": true,
-  "editor.renderIndentGuides": true,
+  "editor.renderIndentGuides": false,
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
   "window.restoreFullscreen": true,
@@ -97,5 +97,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "security.workspace.trust.enabled": false,
-  "security.workspace.trust.startupPrompt": "never"
+  "security.workspace.trust.startupPrompt": "never",
+  "workbench.activityBar.visible": false,
+  "editor.lightbulb.enabled": false,
+  "emmet.triggerExpansionOnTab": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
