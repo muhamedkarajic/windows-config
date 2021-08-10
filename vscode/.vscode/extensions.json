@@ -1,3 +1,16 @@
 {
-  "recommendations": ["dbaeumer.vscode-eslint", "esbenp.prettier-vscode", "hoovercj.vscode-settings-cycler"]
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "hoovercj.vscode-settings-cycler",
+    "johnpapa.angular2",
+    "formulahendry.auto-rename-tag",
+    "alefragnani.bookmarks",
+    "ms-dotnettools.csharp",
+    "pranaygp.vscode-css-peek",
+    "ms-azuretools.vscode-docker",
+    "ritwickdey.liveserver",
+    "jmrog.vscode-nuget-package-manager",
+    "esbenp.prettier-vscode"
+  ]
 }
