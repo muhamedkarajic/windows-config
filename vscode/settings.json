@@ -50,9 +50,9 @@
       ]
     }
   ],
-  "editor.lineNumbers": "off",
-  "editor.folding": false,
-  "editor.glyphMargin": false,
+  "editor.lineNumbers": "on",
+  "editor.folding": true,
+  "editor.glyphMargin": true,
   "workbench.colorCustomizations": {
     "editor.selectionHighlightBackground": "#0000",
     "editor.selectionHighlightBorder": "#0000",
@@ -83,7 +83,7 @@
     "editorOverviewRuler.bracketMatchForeground": "#0000"
   },
   "editor.hideCursorInOverviewRuler": true,
-  "editor.renderIndentGuides": false,
+  "editor.renderIndentGuides": true,
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
   "window.restoreFullscreen": true,
@@ -103,5 +103,17 @@
   "emmet.triggerExpansionOnTab": false,
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.decorations.colors": false,
+  "explorer.decorations.badges": false,
+  "files.exclude": {
+    "**/.gitattributes": true,
+    "**/.gitignore": true,
+    "**/.vs": true,
+    "**/.vscode": true,
+    "**/**.Artifacts": true,
+    "**/**.sln": true,
+    "**/bin": true,
+    "**/obj": true
   }
 }
