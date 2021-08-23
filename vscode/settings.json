@@ -106,6 +106,8 @@
   },
   "explorer.decorations.colors": false,
   "explorer.decorations.badges": false,
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "none",
   "files.exclude": {
     "**/.gitattributes": true,
     "**/.gitignore": true,
