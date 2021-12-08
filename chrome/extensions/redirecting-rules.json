@@ -1,0 +1,8 @@
+[
+  {
+    "dst": "https://www.youtube.com/feed/subscriptions",
+    "isEnabled": true,
+    "isRegex": false,
+    "src": "https://www.youtube.com/"
+  }
+]
