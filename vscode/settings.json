@@ -39,7 +39,8 @@
           "editor.lineNumbers": "off",
           "editor.folding": false,
           "editor.glyphMargin": false,
-          "editor.renderIndentGuides": false
+          "editor.renderIndentGuides": false,
+          "editor.guides.indentation": false
         },
         {
           "editor.lineNumbers": "on",
@@ -50,9 +51,9 @@
       ]
     }
   ],
-  "editor.lineNumbers": "on",
-  "editor.folding": true,
-  "editor.glyphMargin": true,
+  "editor.lineNumbers": "off",
+  "editor.folding": false,
+  "editor.glyphMargin": false,
   "workbench.colorCustomizations": {
     "editor.selectionHighlightBackground": "#0000",
     "editor.selectionHighlightBorder": "#0000",
@@ -94,7 +95,7 @@
   "liveServer.settings.donotVerifyTags": true,
   "editor.codeLens": false,
   "[scss]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
   },
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.startupPrompt": "never",
@@ -117,5 +118,14 @@
     "**/**.sln": true,
     "**/bin": true,
     "**/obj": true
-  }
+  },
+  "tabnine.experimentalAutoImports": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.suggest.showDeprecated": false,
+  "editor.suggest.showWords": false,
+  "editor.suggestSelection": "recentlyUsedByPrefix",
+  "editor.wordBasedSuggestions": false,
+  "editor.wordBasedSuggestionsMode": "currentDocument",
+  "git.ignoreMissingGitWarning": true,
+  "editor.guides.indentation": false
 }
