@@ -1,0 +1,51 @@
+! 2022-01-22 https://stackoverflow.com
+stackoverflow.com##.mb16.s-anchors__grayscale.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+stackoverflow.com###newsletter-ad
+
+! 2022-01-22 https://www.google.com
+www.google.com##.cu-container.DUkiH
+
+! 2022-01-23 https://www.wikipedia.org
+www.wikipedia.org##.lang-list-button-wrapper
+
+! 2022-01-23 https://www.linkedin.com
+www.linkedin.com##.scaffold-layout__aside
+www.linkedin.com##.ember-view.global-alert-offset-top.global-nav
+www.linkedin.com##.global-nav__a11y-menu-container
+www.linkedin.com##.msg-overlay-bubble-header__badge-container
+www.linkedin.com##.msg-overlay-bubble-header
+
+! 2022-01-23 https://www.youtube.com
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com###guide-inner-content
+www.youtube.com###guide-content
+www.youtube.com###guide-button
+www.youtube.com##ytd-logo.ytd-topbar-logo-renderer.style-scope > .ytd-logo.style-scope
+www.youtube.com###country-code
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com##.notification-button-style-type-default.ytd-notification-topbar-button-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com###title-container
+www.youtube.com###avatar-btn
+www.youtube.com###contentContainer > .ytd-app.style-scope
+
+! 2022-01-23 https://www.facebook.com
+www.facebook.com##.oyrvap6t.b6rwyo50.fjf4s8hc.f7vcsfb0.pmt1y7k9.btwxx1t3.owycx6da.gs1a9yip.taijpn5t.hpfvmrgz.g5gj957u.buofh1pr.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .hpfvmrgz.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .du4w35lb.l9j0dhe7.rq0escxv
+www.facebook.com##.be9z9djy.bx45vsiw.lpgh02oy.rek2kq2y.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
+www.facebook.com##.owhxnkwg.ex9rxw2n.kf6kxqaw.bjz44bnn.rpedc2ei.keod5gw0.rp3cc1xn.p9906w3d.l9j0dhe7.a8c37x1j.k4urcfbm.cbu4d94t.rq0escxv
+www.facebook.com##.mhnrfdw6.kavbgo14.ooia0uwo.kr520xx4.j9ispegn.poy2od1o.q10oee1b.byvelhso.rq0escxv
+www.facebook.com##.bp9cbjyn.rq0escxv.j83agx80.buofh1pr.byvelhso.dhix69tm.poy2od1o.j9ispegn.kr520xx4.ehxjyohh
+www.facebook.com##li.hw7htvoc.jrc8bbd0.dawyy4b1.o5zgeu5y.to382e16.buofh1pr > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.byvelhso.j83agx80.bp9cbjyn > .k4urcfbm.l9j0dhe7.taijpn5t.datstx6m.cbu4d94t.j83agx80.bp9cbjyn.lzcic4wl.p8dawk7l.abiwlrkh.k77z8yql.qs9ysxi8.arfg74bv.n00je7tq.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2
+www.facebook.com##.jav28p83.b7h9ocf4.flx89l3n.ms05siws.tt24zdws.tkxwya3v.pmk7jnqg.pmqtw6m8.lthxh50u.i09qtzwb.bub6lnnc.akjuzmll.s1i5eluu
+www.facebook.com##li.hw7htvoc.jrc8bbd0.dawyy4b1.o5zgeu5y.to382e16.buofh1pr > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.byvelhso.j83agx80.bp9cbjyn
+www.facebook.com##.bx45vsiw > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t .tdjehn4e.q676j6op.qypqp5cg.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.taijpn5t.j83agx80.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.bp9cbjyn.lzcic4wl.p8dawk7l.abiwlrkh.f1sip0of.esuyzwwr.i1ao9s8h.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.nhd2j8a9.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.oajrlxb2
+www.facebook.com##.q5xnexhs.aferqb4h.dt6l4hlj.d74ut37n.oi9244e8.taijpn5t.datstx6m.j83agx80.bp9cbjyn
+www.facebook.com##.bp9cbjyn.j83agx80.rl25f0pe.byvelhso.l9j0dhe7.du4w35lb > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.j83agx80
+www.facebook.com##span > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.rq0escxv.du4w35lb.l9j0dhe7
+www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+www.facebook.com##.eb3gnj61.dwo3fsh8.akv41dx8.ovq5dppa.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.m7zwrmfr.tmrshh9y.taijpn5t.bp9cbjyn.pq6dq46d.l9j0dhe7.lzcic4wl.p8dawk7l.abiwlrkh.btwxx1t3.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.mg4g778l.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.oajrlxb2
+www.facebook.com##.cxgpxx05 > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05 > div > .a8c37x1j.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.lzcic4wl.p8dawk7l.abiwlrkh.btwxx1t3.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.mg4g778l.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .nnctdnn4.scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4
+www.facebook.com##.cxgpxx05 > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.rq0escxv.du4w35lb.l9j0dhe7
+

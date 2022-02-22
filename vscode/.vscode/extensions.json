@@ -10,7 +10,6 @@
     "pranaygp.vscode-css-peek",
     "ms-azuretools.vscode-docker",
     "ritwickdey.liveserver",
-    "jmrog.vscode-nuget-package-manager",
-    "esbenp.prettier-vscode"
+    "jmrog.vscode-nuget-package-manager"
   ]
 }
