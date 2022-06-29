@@ -46,7 +46,8 @@
           "editor.lineNumbers": "on",
           "editor.folding": true,
           "editor.glyphMargin": true,
-          "editor.renderIndentGuides": true
+          "editor.renderIndentGuides": true,
+          "editor.guides.indentation": true
         }
       ]
     }
