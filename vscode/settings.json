@@ -85,7 +85,6 @@
     "editorOverviewRuler.bracketMatchForeground": "#0000"
   },
   "editor.hideCursorInOverviewRuler": true,
-  "editor.renderIndentGuides": true,
   "editor.scrollbar.verticalScrollbarSize": 10,
   "editor.scrollbar.horizontalScrollbarSize": 10,
   "window.restoreFullscreen": true,
@@ -128,5 +127,6 @@
   "editor.wordBasedSuggestions": false,
   "editor.wordBasedSuggestionsMode": "currentDocument",
   "git.ignoreMissingGitWarning": true,
-  "editor.guides.indentation": false
+  "editor.guides.indentation": false,
+  "editor.linkedEditing": true
 }
