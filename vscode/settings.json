@@ -1,6 +1,5 @@
 {
   "window.title": "${rootName}",
-  "workbench.statusBar.visible": false,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "none",
   "workbench.startupEditor": "none",
@@ -9,7 +8,7 @@
   "editor.codeActionsOnSave": [
     "source.addMissingImports",
     "source.organizeImports"
- ],
+  ],
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
       "source": "PowerShell",
@@ -104,7 +103,6 @@
   },
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.startupPrompt": "never",
-  "workbench.activityBar.visible": false,
   "editor.lightbulb.enabled": false,
   "emmet.triggerExpansionOnTab": false,
   "[css]": {
@@ -125,10 +123,8 @@
     "**/obj": true
   },
   "tabnine.experimentalAutoImports": true,
-  "editor.quickSuggestionsDelay": 0,
   "editor.suggest.showDeprecated": false,
   "editor.suggest.showWords": false,
-  "editor.suggestSelection": "recentlyUsedByPrefix",
   "editor.wordBasedSuggestions": false,
   "editor.wordBasedSuggestionsMode": "currentDocument",
   "git.ignoreMissingGitWarning": true,
@@ -147,5 +143,20 @@
   },
   "workbench.reduceMotion": "on",
   "terminal.integrated.tabs.enableAnimation": false,
-  "editor.smoothScrolling": true
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.quickSuggestionsDelay": 100,
+  "editor.snippetSuggestions": "top",
+  "debug.console.historySuggestions": false,
+  "editor.hover.enabled": false,
+  "npm.fetchOnlinePackageInfo": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  "markdown.preview.typographer": true,
+  "editor.gotoLocation.multipleDefinitions": "goto"
 }
