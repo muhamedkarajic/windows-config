@@ -4,10 +4,10 @@
   "editor.renderWhitespace": "none",
   "workbench.startupEditor": "none",
   "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": [
     "source.addMissingImports",
-    "source.organizeImports"
+    // "source.organizeImports"
   ],
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -27,13 +27,12 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "workbench.editor.enablePreview": false,
-  "breadcrumbs.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
   "settings.cycle": [
     {
@@ -94,12 +93,12 @@
   "window.restoreFullscreen": true,
   "window.newWindowDimensions": "maximized",
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "liveServer.settings.donotVerifyTags": true,
   "editor.codeLens": false,
   "[scss]": {
-    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    "editor.defaultFormatter": "vscode.css-language-features"
   },
   "security.workspace.trust.enabled": false,
   "security.workspace.trust.startupPrompt": "never",
@@ -118,7 +117,6 @@
     "**/.vs": true,
     "**/.vscode": true,
     "**/**.Artifacts": true,
-    "**/**.sln": true,
     "**/bin": true,
     "**/obj": true
   },
@@ -144,7 +142,6 @@
   "workbench.reduceMotion": "on",
   "terminal.integrated.tabs.enableAnimation": false,
   "workbench.statusBar.visible": false,
-  "workbench.activityBar.visible": false,
   "editor.quickSuggestions": {
     "other": false,
     "comments": false,
@@ -153,10 +150,14 @@
   "editor.quickSuggestionsDelay": 100,
   "editor.snippetSuggestions": "top",
   "debug.console.historySuggestions": false,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": true,
   "npm.fetchOnlinePackageInfo": false,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "markdown.preview.openMarkdownLinks": "inEditor",
   "markdown.preview.typographer": true,
-  "editor.gotoLocation.multipleDefinitions": "goto"
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.visible": false,
+  "update.showReleaseNotes": false,
+  "breadcrumbs.enabled": false
 }
