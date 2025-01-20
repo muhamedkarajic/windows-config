@@ -1,0 +1,197 @@
+{
+  "window.title": "${rootName}",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": [
+      "source.addMissingImports"
+  ],
+  "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+          "source": "PowerShell",
+          "icon": "terminal-powershell",
+          "args": [
+              "-nologo"
+          ]
+      }
+  },
+  "redhat.telemetry.enabled": false,
+  "explorer.confirmDelete": false,
+  "js/ts.implicitProjectConfig.experimentalDecorators": true,
+  "explorer.confirmDragAndDrop": false,
+  "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "settings.cycle": [
+      {
+          "id": "lineNumbers",
+          "values": [
+              {
+                  "editor.lineNumbers": "off",
+                  "editor.folding": false,
+                  "editor.glyphMargin": false,
+                  "editor.renderIndentGuides": false,
+                  "editor.guides.indentation": false
+              },
+              {
+                  "editor.lineNumbers": "on",
+                  "editor.folding": true,
+                  "editor.glyphMargin": true,
+                  "editor.renderIndentGuides": false,
+                  "editor.guides.indentation": false
+              }
+          ]
+      }
+  ],
+  "editor.lineNumbers": "on",
+  "editor.folding": true,
+  "editor.glyphMargin": true,
+  "workbench.colorCustomizations": {
+      "editor.selectionHighlightBackground": "#0000",
+      "editor.selectionHighlightBorder": "#0000",
+      "editor.wordHighlightStrongBackground": "#0000",
+      "editor.wordHighlightStrongBorder": "#0000",
+      "editor.wordHighlightBackground": "#0000",
+      "editor.wordHighlightBorder": "#0000",
+      "editorOverviewRuler.border": "#0000",
+      "editorOverviewRuler.currentContentForeground": "#0000",
+      "editorOverviewRuler.addedForeground": "#0000",
+      "editorOverviewRuler.modifiedForeground": "#0000",
+      "editorOverviewRuler.deletedForeground": "#0000",
+      "editorGutter.addedBackground": "#0000",
+      "peekViewEditorGutter.background": "#0000",
+      "editorGutter.modifiedBackground": "#0000",
+      "editorGutter.deletedBackground": "#0000",
+      "editor[Warning|Error].forground": "#000000",
+      "editorOverviewRuler.findMatchForeground": "#0000",
+      "editorOverviewRuler.rangeHighlightForeground": "#0000",
+      "editorOverviewRuler.selectionHighlightForeground": "#0000",
+      "editorOverviewRuler.wordHighlightForeground": "#0000",
+      "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+      "editorOverviewRuler.warningForeground": "#0000",
+      "editorOverviewRuler.errorForeground": "#ff0000",
+      "editor.foldBackground": "#0000",
+      "editorOverviewRuler.Site": "#ff0000",
+      "editorOverviewRuler.infoForeground": "#0000",
+      "editorOverviewRuler.bracketMatchForeground": "#0000"
+  },
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.scrollbar.horizontalScrollbarSize": 10,
+  "window.restoreFullscreen": true,
+  "window.newWindowDimensions": "maximized",
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.codeLens": false,
+  "[scss]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.startupPrompt": "never",
+  "editor.lightbulb.enabled": "off",
+  "emmet.triggerExpansionOnTab": false,
+  "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "explorer.decorations.colors": false,
+  "explorer.decorations.badges": false,
+  "workbench.tree.indent": 20,
+  "workbench.tree.renderIndentGuides": "none",
+  "files.exclude": {
+      "**/.git": false,
+      "**/.gitattributes": true,
+      "**/.vs": true,
+      "**/**.Artifacts": true,
+      "**/bin": true,
+      "**/obj": true
+  },
+  "tabnine.experimentalAutoImports": true,
+  "editor.suggest.showDeprecated": false,
+  "editor.suggest.showWords": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.wordBasedSuggestionsMode": "currentDocument",
+  "git.ignoreMissingGitWarning": true,
+  "editor.guides.indentation": false,
+  "editor.linkedEditing": true,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+      "*.ts": "${capture}.js, ${capture}.typegen.ts",
+      "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+      "*.jsx": "${capture}.js",
+      "*.tsx": "${capture}.ts, ${capture}.typegen.ts",
+      "tsconfig.json": "tsconfig.*.json",
+      "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml",
+      "*.mts": "${capture}.typegen.ts",
+      "*.cts": "${capture}.typegen.ts"
+  },
+  "workbench.reduceMotion": "on",
+  "terminal.integrated.tabs.enableAnimation": false,
+  "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+  },
+  "editor.quickSuggestionsDelay": 100,
+  "editor.snippetSuggestions": "top",
+  "debug.console.historySuggestions": false,
+  "editor.hover.enabled": true,
+  "npm.fetchOnlinePackageInfo": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  "markdown.preview.typographer": true,
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "update.showReleaseNotes": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.commandCenter": false,
+  "workbench.statusBar.visible": false,
+  "extensions.ignoreRecommendations": true,
+  "diffEditor.renderSideBySide": false,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmPasteNative": false,
+  "nxConsole.showNodeVersionOnStartup": false,
+  "terminal.integrated.persistentSessionScrollback": 1000000,
+  "terminal.integrated.scrollback": 1000000,
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+  "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": false,
+  "git.openRepositoryInParentFolders": "never",
+  "editor.semanticHighlighting.enabled": true,
+  "csharp.semanticHighlighting.enabled": true,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "workbench.editor.showTabs": "none",
+  "scm.showIncomingChanges": "never",
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "csharp.preview.improvedLaunchExperience": true,
+  "files.associations": {
+      "*.json": "jsonc"
+  },
+  "github.copilot.chat.codeGeneration.instructions": [
+      {
+          "text": "Never add comments unless asked for."
+      }
+  ],
+  "prettier.endOfLine": "crlf",
+  "breadcrumbs.enabled": false,
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.activityBar.location": "hidden",
+  "cursor.chat.terminalShowHoverHint": false,
+}
